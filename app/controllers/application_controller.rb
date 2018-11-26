@@ -48,3 +48,8 @@ end
   end
 
 end
+
+
+
+
+<p><a href="/recipes/<%= @recipe.id %>/edit">Edit</a></p>
